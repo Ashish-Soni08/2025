@@ -1,3 +1,8 @@
+# Added by Author: Ashish Soni
+
+Synthetic_Data_Generation_for_Fine-tuning_AI_Models/data-generation-ai
+Synthetic_Data_Generation_for_Fine-tuning_AI_Models/.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
